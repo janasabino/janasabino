@@ -12,10 +12,10 @@
 - #opentowork: feel free to contact me (for professional collaboration proposals and also to chat about NLP and/or literature!)
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaPitanga&layout=compact" width="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&layout=compact" width="350"></a>
 
 
-[![Janaina's github stats](https://github-readme-stats.vercel.app/api?username=JanaPitanga)](https://github.com/JanaPitanga/github-readme-stats)
+[![Janaina's github stats](https://github-readme-stats.vercel.app/api?username=janasabino)](https://github.com/janasabino/github-readme-stats)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/janasabino/">
