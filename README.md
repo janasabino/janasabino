@@ -3,7 +3,7 @@
 <p align='center'><b>My name is Janaina, welcome to my Github page! :)</b></p> 
 
 <p align='center'>
-  <a href="#"><img src="https://ibb.co/x7yFBq9" width="350"></a>
+  <a href="#"><img src="https://i.ibb.co/JsN3Gj6/cropped-nlp2-1.png" alt="cropped-nlp2-1" border="0"></a>
 </p>
 
 **Some things about me:**
