@@ -8,8 +8,7 @@
 
 **Some things about me:**
 - I'm a Linguist passionate about artificial intelligence
-#- Experience in data anonymization, Named-entity recognition, text preprocessing, information extraction, extract topics from large volume of text, corpus annotation... 
-- #opentowork: feel free to contact me (for professional collaboration proposals and also to chat about NLP and/or literature!)
+- #opentowork: feel free to contact me (for professional collaboration proposals and also to chat about IA, NLP and/or literature!)
 
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&layout=compact" width="350"></a>
