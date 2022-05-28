@@ -1,4 +1,6 @@
-<h3 align='center'> Hello! 👋 </h3>
+![](https://komarev.com/ghpvc/?username=janasabino&color=006bed)
+
+<h3 align='center'> Hi you! 👋 </h3>
 
 <p align='center'><b>My name is Janaina, welcome to my Github page! :)</b></p> 
 
