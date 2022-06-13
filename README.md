@@ -27,8 +27,10 @@
   </a>
 </p>
 
+
+
+# let's code! \o/
+
 <p align="left">
   <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
 </p>
-
-# let's move on! \o/
