@@ -14,11 +14,17 @@
 
 - 🔭 I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
 
-- 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
+- speaking_head Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
 <br><br>
 
 # :open_book: **Learning...**
+
+## :speech_balloon: **Natural Language Processing**
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat&logo=css3&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ## :robot: **Data Science**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
@@ -27,12 +33,6 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-  
-## :atom_symbol: **Desenvolvimento Web Front-End e Back-End**
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
   
 ### :heavy_plus_sign: **Outros**
   ![C#](https://img.shields.io/badge/C%23-239120?style=style=flat&logo=c-sharp&logoColor=white)
