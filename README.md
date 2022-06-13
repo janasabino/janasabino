@@ -16,7 +16,7 @@
 
 - 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
-
+<br><br>
 
 <p align="center">
 <a href="https://github.com/janasabino">
@@ -27,9 +27,9 @@
 </a>
 </p
 
+<br><br>
 
-
-# lets code! \o/
+# let's code! \o/
 
 <p align="left">
   <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
