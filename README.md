@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
 
-- 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>?
+- 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
 
 
