@@ -65,6 +65,10 @@
 </p
 
 <br>
+  
+![Snake animation](https://github.com/janasabino/janasabino/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
 
 # let's code! \o/
 
