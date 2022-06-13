@@ -10,11 +10,11 @@
 
 **Some things about me:**
 
-- 🌱 I’m currently (and always!) learning and working about Natural Language Processing.
+- :open_book: I’m currently (and always!) learning and working about Natural Language Processing.
 
-- 🔭 I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
+- :woman_technologist: I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
 
-- speaking_head Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
+- :speaking_head: Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
 <br><br>
 
