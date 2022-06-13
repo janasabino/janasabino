@@ -9,8 +9,13 @@
 </p>
 
 **Some things about me:**
-- I'm a Linguist passionate about Natural Language Processing
-- #opentowork: feel free to contact me (for professional collaboration proposals and also to chat about IA, NLP and/or literature!)
+
+- 🌱 I’m currently (and always!) learning and working about Natural Language Processing.
+
+- 🔭 I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
+
+- 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>?
+
 
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&layout=compact" width="350"></a>
