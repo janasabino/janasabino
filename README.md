@@ -21,8 +21,8 @@
 # :open_book: **Learning...**
 
 ## :speech_balloon: **Natural Language Processing**
-  ![spaCy](https://img.shields.io/badge/built%20with-spaCy-09a3d5.svg)](https://spacy.io)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)
+  ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
