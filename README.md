@@ -10,18 +10,18 @@
 
 **Some things about me:**
 
-- :open_book: I’m currently (and always!) learning and working about Natural Language Processing.
+- :open_book:  I’m currently (and always!) learning and working about Natural Language Processing.
 
-- :woman_technologist: I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
+- :woman_technologist:  I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
 
-- :speaking_head: Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
+- :speaking_head:  Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
-<br><br>
+<br>
 
 # :open_book: **Learning...**
 
 ## :speech_balloon: **Natural Language Processing**
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![spaCy](https://img.shields.io/badge/built%20with-spaCy-09a3d5.svg)](https://spacy.io)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
