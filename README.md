@@ -17,6 +17,16 @@
 - 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
 
+<p align="center">
+<a href="https://github.com/janasabino">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=janasabino&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/MrVtR">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&langs_count=8&layout=compact" />
+</a>
+</p
+
+
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&layout=compact" width="350"></a>
 
