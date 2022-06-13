@@ -17,6 +17,7 @@
 - 💬 Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
 
 
+
 <p align="center">
 <a href="https://github.com/janasabino">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=janasabino&count_private=true&show_icons=true&theme=synthwave" />
@@ -25,22 +26,6 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&langs_count=8&layout=compact" />
 </a>
 </p
-
-
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&layout=compact" width="350"></a>
-
-
-[![Janaina's github stats](https://github-readme-stats.vercel.app/api?username=janasabino)](https://github.com/janasabino/github-readme-stats)
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/janasabino/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:janasabino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a>
-</p>
 
 
 
