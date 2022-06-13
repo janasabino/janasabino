@@ -64,7 +64,7 @@
 </a>
 </p
 
-<br><br>
+<br>
 
 # let's code! \o/
 
