@@ -62,7 +62,7 @@
 <a href="https://github.com/MrVtR">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&langs_count=8&layout=compact" />
 </a>
-</p
+</p>
 
   
 <br>
