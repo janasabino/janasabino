@@ -59,7 +59,7 @@
 <a href="https://github.com/janasabino">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=janasabino&count_private=true&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/MrVtR">
+<a href="https://github.com/janasabino">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&langs_count=8&layout=compact" />
 </a>
 </p>
