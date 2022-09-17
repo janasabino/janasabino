@@ -12,9 +12,13 @@
 
 - :open_book:  I’m currently (and always!) learning and working about Natural Language Processing.
 
-- :woman_technologist:  I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
+- :computer:  I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
 
 - :speaking_head:  Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
+
+- :woman_technologist:  I am a proud <a href="https://sites.google.com/view/brasileiras-pln/">Brazilian girl in NLP</a>!
+
+
 
 <br>
 
