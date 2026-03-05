@@ -3,7 +3,7 @@
 <p align='center'><b>My name is Janaina, welcome to my GitHub page!</b></p>
 
 <p align='center'>
-Exploring the intersection of <b>Artificial Intelligence</b>, <b>Digital Learning</b> and <b>Learning Design</b>.
+Exploring the intersection of <b>Artificial Intelligence</b> and <b>Learning Technologies</b>.
 </p>
 
 ---
