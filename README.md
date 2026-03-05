@@ -12,7 +12,6 @@ Exploring the intersection of <b>Artificial Intelligence</b> and <b>Learning Tec
 
 - 🤖 Interested in **AI applications for learning and knowledge work**
 - 🎓 Exploring **digital learning tools and instructional design**
-- 🔎 Exploring the **digital learning ecosystem and emerging tools**
 - 🧠 Background in **Natural Language Processing and linguistics**
 
 I enjoy exploring how technology can support learning, knowledge sharing and new educational experiences.
