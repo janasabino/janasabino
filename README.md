@@ -12,7 +12,7 @@ Exploring the intersection of <b>Artificial Intelligence</b>, <b>Digital Learnin
 
 - 🤖 Interested in **AI applications for learning and knowledge work**
 - 🎓 Exploring **digital learning tools and instructional design**
-- 🔎 Building a **veille on digital learning technologies**
+- 🔎 Exploring the **digital learning ecosystem and emerging tools**
 - 🧠 Background in **Natural Language Processing and linguistics**
 
 I enjoy exploring how technology can support learning, knowledge sharing and new educational experiences.
@@ -55,13 +55,6 @@ I enjoy exploring how technology can support learning, knowledge sharing and new
 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
-
----
-
-## 📖 Projects
-
-- 📚 **Digital Learning Resources**  
-  A curated list of tools and platforms for digital learning and instructional design.
 
 ---
 
