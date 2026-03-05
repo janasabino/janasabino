@@ -1,63 +1,69 @@
-<!--![](https://komarev.com/ghpvc/?username=janasabino&color=006bed)-->
-
 <h3 align='center'> Hi you! 👋 </h3>
 
-<p align='center'><b>My name is Janaina, welcome to my Github page! :)</b></p> 
+<p align='center'><b>My name is Janaina, welcome to my GitHub page!</b></p>
 
 <p align='center'>
-  <a href="#"><img src="https://i.ibb.co/JsN3Gj6/cropped-nlp2-1.png" alt="cropped-nlp2-1" border="0"></a>
+Exploring the intersection of <b>Artificial Intelligence</b>, <b>Digital Learning</b> and <b>Learning Design</b>.
 </p>
 
-**Some things about me:**
+---
 
-- :open_book:  I’m currently (and always!) learning and working about Natural Language Processing.
+## ✨ About me
 
-- :computer:  I’m currently studying and working with <a href="https://stackshare.io/janasabino/my-stack">this stack</a>.
+- 🤖 Interested in **AI applications for learning and knowledge work**
+- 🎓 Exploring **digital learning tools and instructional design**
+- 🔎 Building a **veille on digital learning technologies**
+- 🧠 Background in **Natural Language Processing and linguistics**
 
-- :speaking_head:  Let's talk about Linguistics, Literature, Natural Language Processing and Cognitive Systems! Or about any tool or technology in <a href="https://stackshare.io/janasabino/my-stack">my stack</a>? :relaxed:
+I enjoy exploring how technology can support learning, knowledge sharing and new educational experiences.
 
-- :woman_technologist:  I am a proud <a href="https://sites.google.com/view/brasileiras-pln/">Brazilian girl in NLP</a>!
+---
 
+## 📚 Currently exploring
 
+### 🤖 AI & Learning
 
-<br>
+- Generative AI for learning design  
+- AI-assisted content creation  
+- AI tools for knowledge management  
+- LLMs for education and training  
 
-# :open_book: **Learning...**
+### 🎓 Digital Learning
 
-## :speech_balloon: **Natural Language Processing**
-  ![spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)
-  ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)
+- Instructional design  
+- E-learning authoring tools  
+- Learning platforms (LMS)  
+- Digital learning ecosystems  
 
-## :robot: **Data Science**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
-  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
- 
+---
 
-## :infinity: **DevOps**
+## 🛠 Tools & technologies
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-## **:gear: IDEs/Editors**
+### AI / Data
 
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+![spaCy](https://img.shields.io/badge/spaCy-09a3d5)
 
-## **:wrench: Other**
+### Learning & Content
 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Genially](https://img.shields.io/badge/Genially-8E44AD)
+![Moodle](https://img.shields.io/badge/Moodle-F98012)
+![Canva](https://img.shields.io/badge/Canva-00C4CC)
 
-<br/>
+### Dev tools
 
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+
+---
+
+## 📖 Projects
+
+- 📚 **Digital Learning Resources**  
+  A curated list of tools and platforms for digital learning and instructional design.
+
+---
 
 <p align="center">
 <a href="https://github.com/janasabino">
@@ -66,13 +72,4 @@
 <a href="https://github.com/janasabino">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasabino&langs_count=8&layout=compact" />
 </a>
-</p>
-
-  
-<br>
-
-# let's code! \o/
-
-<p align="left">
-  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
 </p>
