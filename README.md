@@ -56,7 +56,3 @@ I enjoy exploring how technology can support learning, knowledge sharing and new
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 
 ---
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janasabino&show_icons=true&theme=synthwave" />
-</p>
