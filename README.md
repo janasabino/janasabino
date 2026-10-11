@@ -1,58 +1,44 @@
-<h3 align='center'> Hi you! 👋 </h3>
 
-<p align='center'><b>My name is Janaina, welcome to my GitHub page!</b></p>
+# Bonjour 👋
 
-<p align='center'>
-Exploring the intersection of <b>Artificial Intelligence</b> and <b>Learning Technologies</b>.
-</p>
+**Ingénierie pédagogique · IA appliquée à la formation · Qualité & Qualiopi**
 
----
+Je pars des besoins, des publics et des contextes de formation avant de choisir les méthodes, les formats ou les outils.
 
-## ✨ About me
-
-- 🤖 Interested in **AI applications for learning and knowledge work**
-- 🎓 Exploring **digital learning tools and instructional design**
-- 🧠 Background in **Natural Language Processing and linguistics**
-
-I enjoy exploring how technology can support learning, knowledge sharing and new educational experiences.
+Mon parcours en linguistique, en traitement automatique des langues (NLP) et en intelligence artificielle nourrit aujourd’hui mon approche de l’ingénierie pédagogique.
 
 ---
 
-## 📚 Currently exploring
+## 🔎 Mes centres d'intérêt
 
-### 🤖 AI & Learning
-
-- Generative AI for learning design  
-- AI-assisted content creation  
-- AI tools for knowledge management  
-- LLMs for education and training  
-
-### 🎓 Digital Learning
-
-- Instructional design  
-- E-learning authoring tools  
-- Learning platforms (LMS)  
-- Digital learning ecosystems  
+- 🤖 **IA & apprentissage** — IA générative, LLMs, applications et limites des modèles dans les contextes de formation.
+- 📊 **NLP & données éducatives** — Analyse de textes, data science et learning analytics.
+- 🎓 **Ingénierie pédagogique** — LMS, dispositifs multimodaux, expériences d’apprentissage et innovation pédagogique.
 
 ---
 
-## 🛠 Tools & technologies
+## 🛠️ Compétences & outils
 
-### AI / Data
+### 🎓 Ingénierie pédagogique
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
-![spaCy](https://img.shields.io/badge/spaCy-09a3d5)
+Analyse des besoins · Scénarisation pédagogique · Microlearning · Évaluation · Démarche qualité
 
-### Learning & Content
+### 🎨 Conception & plateformes
 
-![Genially](https://img.shields.io/badge/Genially-8E44AD)
-![Moodle](https://img.shields.io/badge/Moodle-F98012)
-![Canva](https://img.shields.io/badge/Canva-00C4CC)
+![Canva](https://img.shields.io/badge/-Canva-00A8B5?style=flat-square)
+![Genially](https://img.shields.io/badge/-Genially-8061B5?style=flat-square)
+![Moodle](https://img.shields.io/badge/-Moodle-D98628?style=flat-square)
 
-### Dev tools
+### 🤖 IA, NLP & Data
 
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![spaCy](https://img.shields.io/badge/-spaCy-248BA8?style=flat-square)
+
+### 💻 Développement & publication
+
+![Git](https://img.shields.io/badge/-Git-D56B50?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-555F70?style=flat-square)
 
 ---
+
+🌐 **[Découvrir mon portfolio](https://janasabino.github.io/)**
