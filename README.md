@@ -1,7 +1,11 @@
 
-# Bonjour 👋
 
-**Ingénierie pédagogique · IA appliquée à la formation · Qualité & Qualiopi**
+<h1 align="center">Bonjour 👋</h1>
+
+<p align="center">
+  <strong>Ingénierie pédagogique · IA appliquée à la formation · Qualité & Qualiopi</strong>
+</p>
+
 
 Je crois qu’une formation pertinente commence par une bonne compréhension des besoins, du public et du contexte, avant de choisir les méthodes, les modalités et les outils.
 
